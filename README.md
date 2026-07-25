@@ -4,17 +4,16 @@
 
 <a href="https://linkedin.com/in/thandonma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:thandonma@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=Thandonma&color=1F3A5F&style=for-the-badge&label=PROFILE+VIEWS" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=1F3A5F&center=true&vCenter=true&width=600&lines=Building+with+React%2C+TypeScript+%26+PHP;Leading+a+3-person+dev+team+at+Akhanya;Integrating+Xero%2C+HubSpot+%26+SharePoint;Shipping+faster+with+Claude+%2B+Copilot)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?afont=Montserrat&weight=500&size=22&duration=3000&pause=1000&color=1F3A5F&center=true&vCenter=true&width=600&lines=Building+with+React%2C+TypeScript+%26+PHP;Leading+a+3-person+dev+team+at+Akhanya;Integrating+Xero%2C+HubSpot+%26+SharePoint;Shipping+faster+with+Claude+%2B+Copilot)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### 👋 About Me
+### About Me
 
 I'm a Full-Stack Developer and Team Lead based in Pretoria, South Africa. I build production web applications with React, TypeScript, and PHP, lead a small development team, and use AI tools like Claude and GitHub Copilot as a core part of how I ship code, not just a shortcut.
 
@@ -26,39 +25,46 @@ I'm a Full-Stack Developer and Team Lead based in Pretoria, South Africa. I buil
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 <div align="center">
 
 **Languages & Frontend**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://cdn.simpleicons.org/javascript" width="60" title="JavaScript"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/typescript" width="60" title="TypeScript"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/react" width="60" title="React"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/nextdotjs" width="60" title="Next.js"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/tailwindcss" width="60" title="Tailwind CSS"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/html5" width="60" title="HTML5"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/css3" width="60" title="CSS3"/>
+
+<br/><br/>
 
 **Backend & Databases**
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+<img src="https://cdn.simpleicons.org/php" width="60" title="PHP"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/postgresql" width="60" title="PostgreSQL"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/mysql" width="60" title="MySQL"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/wordpress" width="60" title="WordPress"/>
+
+<br/><br/>
 
 **AI-Assisted Development**
 
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+<img src="https://cdn.simpleicons.org/anthropic" width="60" title="Claude"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/githubcopilot" width="60" title="GitHub Copilot"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/openai" width="60" title="OpenAI Codex"/>
+
+<br/><br/>
 
 **Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
-![Xero](https://img.shields.io/badge/Xero-13B5EA?style=for-the-badge&logo=xero&logoColor=white)
+<img src="https://cdn.simpleicons.org/git" width="60" title="Git"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/github" width="60" title="GitHub"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/jira" width="60" title="Jira"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/hubspot" width="60" title="HubSpot"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/xero" width="60" title="Xero"/>
 
 </div>
 
@@ -92,21 +98,6 @@ Refactored 5-10 one-off UI elements into reusable components from Figma designs,
 </td>
 </tr>
 </table>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Thandonma&show_icons=true&hide_border=true&title_color=1F3A5F&icon_color=1F3A5F&text_color=333333&bg_color=ffffff" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thandonma&layout=compact&hide_border=true&title_color=1F3A5F&text_color=333333&bg_color=ffffff" width="40%" />
-
-<img src="https://streak-stats.demolab.com/?user=Thandonma&hide_border=true&background=ffffff&ring=1F3A5F&fire=1F3A5F&currStreakLabel=1F3A5F" width="60%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Thandonma&theme=flat&no-frame=true&column=4&margin-w=10&margin-h=10&row=1" width="80%" />
-
-</div>
 
 ---
 
