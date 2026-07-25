@@ -1,13 +1,14 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=1F3A5F&height=220&section=header&text=Thando%20Mavimbela&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%26%20Team%20Lead&descAlignY=58&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=4287f5&height=220&section=header&text=Thando%20Mavimbela&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20and%20Team%20Lead&descAlignY=58&descSize=20)
 
 <a href="https://linkedin.com/in/thandonma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:thandonma@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=Thandonma&color=1F3A5F&style=for-the-badge&label=PROFILE+VIEWS" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?afont=Montserrat&weight=500&size=22&duration=3000&pause=1000&color=1F3A5F&center=true&vCenter=true&width=600&lines=Building+with+React%2C+TypeScript+%26+PHP;Leading+a+3-person+dev+team+at+Akhanya;Integrating+Xero%2C+HubSpot+%26+SharePoint;Shipping+faster+with+Claude+%2B+Copilot)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Montserrat&weight=500&size=22&duration=3000&pause=1000&color=1F3A5F&center=true&vCenter=true&width=600&lines=Building+with+React%2C+TypeScript+%26+PHP;Leading+a+3-person+dev+team+at+Akhanya;Integrating+Xero%2C+HubSpot+%26+SharePoint;Shipping+faster+with+Claude+%2B+Copilot)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,11 +18,11 @@
 
 I'm a Full-Stack Developer and Team Lead based in Pretoria, South Africa. I build production web applications with React, TypeScript, and PHP, lead a small development team, and use AI tools like Claude and GitHub Copilot as a core part of how I ship code, not just a shortcut.
 
-- 🔭 Currently building a custom project management platform at **Akhanya IT Innovations**, integrating Xero, HubSpot, and SharePoint into one system
-- 🌱 Growing my skills across full-stack development, system integrations, and AI-assisted engineering workflows
-- 🛠️ Also bring 5+ years of freelance WordPress and CMS development, with hands-on on-page SEO experience
-- 💬 Ask me about full-stack development, third-party integrations (Xero, HubSpot, Zoho), or using AI coding tools day to day
-- ⚡ Fun fact: I used AI to cut a plugin build from an estimated 2 days down to under 1, then made it actually work with my own logic
+- Currently building a custom project management platform at **Akhanya IT Innovations**, integrating Xero, HubSpot, and SharePoint into one system
+- Growing my skills across full-stack development, system integrations, and AI-assisted engineering workflows
+- Also bring 5+ years of freelance WordPress and CMS development, with hands-on on-page SEO experience
+- Ask me about full-stack development, third-party integrations (Xero, HubSpot, Zoho), or using AI coding tools day to day
+- Fun fact: I used AI to cut a plugin build from an estimated 2 days down to under 1, then made it actually work with my own logic
 
 ---
 
@@ -70,7 +71,7 @@ I'm a Full-Stack Developer and Team Lead based in Pretoria, South Africa. I buil
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
 <tr>
@@ -103,6 +104,6 @@ Refactored 5-10 one-off UI elements into reusable components from Figma designs,
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=1F3A5F&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=4287f5&height=100&section=footer)
 
 </div>
